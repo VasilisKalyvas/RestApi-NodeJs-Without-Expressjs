@@ -6,3 +6,7 @@ so I couldnt build one without express.
 On the occasion of a test given to me from an interview 
 where this project was requested I tried to learn how to build it 
 after my failure in the test.
+
+Features:
+1. Crud operations for products.
+2. Ascending/Descending operation by the price of product.
